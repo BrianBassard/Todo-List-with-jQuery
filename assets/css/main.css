@@ -15,11 +15,13 @@ h1 {
   color: white;
   margin: 0;
   border-radius: 1rem;
-  padding: 10px 20px;
+  padding: 1rem 20px;
   text-transform: uppercase;
   font-size: 24px;
   font-weight: normal;
-  margin-bottom: 10px;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.507);
 }
 
 #container {
@@ -94,6 +96,7 @@ input:focus ::placeholder {
 
 .fa-plus {
   float: right;
+  padding-top: 0.22rem;
 }
 
 span {
